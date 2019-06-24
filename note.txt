@@ -1,0 +1,11 @@
+to use UI:
+install nodejs (v10.15.3)
+install vue cli by "npm install -g @vue/cli"
+cd to UI folder and run:
+- npm install
+- npm run serve
+
+on Brower install CORS Access-Control-Allow-Origin extension and turn it on
+
+
+to run python server: install python3 and other requirement at file requirement.txt by command: pip install -r requirement.txt
